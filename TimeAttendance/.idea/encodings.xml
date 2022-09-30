@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/dao/DAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/dao/DAOFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/dao/DAOMysql.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/frame/AddStudentPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/frame/AttendanceManagementPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/frame/LoginDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/frame/MainFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/frame/MainPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/frame/StudentManagementPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/main/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/service/FaceEngineService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/service/HRService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/mr/clock/util/JDBCUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

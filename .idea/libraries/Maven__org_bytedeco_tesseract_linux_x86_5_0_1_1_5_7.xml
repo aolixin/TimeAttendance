@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco:tesseract:linux-x86:5.0.1-1.5.7">
+    <CLASSES>
+      <root url="jar://D:/maven/apache-maven-3.6.3/repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-linux-x86.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/apache-maven-3.6.3/repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/apache-maven-3.6.3/repository/org/bytedeco/tesseract/5.0.1-1.5.7/tesseract-5.0.1-1.5.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
